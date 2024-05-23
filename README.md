@@ -1,7 +1,6 @@
 These policies were adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), primarily to support a new service [I'm](https://lmno.lol/alvaro) working on: [lmno.lol](https://lmno.lol). This is very much a one-man-shop. These docs aren't perfect, but it's a start.
 
-Alvaro
-[https://lmno.lol/alvaro](https://lmno.lol/alvaro)
+Alvaro / [https://lmno.lol/alvaro](https://lmno.lol/alvaro)
 
 # XENODIUM LTD Policies, Terms, and Legal Stuff
 
